@@ -6,11 +6,5 @@
         "module": "CommonJS",
         "outDir": "commonjs",
         "target": "ES2019",
-       
-        "paths": { 
-            "blasjs": [
-                "src/lib"
-            ]
-        }
     }
 }
