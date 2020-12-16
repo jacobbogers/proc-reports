@@ -2,7 +2,7 @@
   "description": "reports from /proc filesystem as json files",
   "name": "@sys-tools/proc",
   "author": "Jacob K.F. Bogers",
-  "version": "0.0.2-alpha",
+  "version": "0.0.3-alpha",
   "license": "MIT",
   "homepage": "https://github.com/jacobbogers/proc-reports#readme",
   "keywords": [
