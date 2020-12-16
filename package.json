@@ -18,11 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/jacobbogers/proc-reports.git"
   },
-  "os": [
-    "darwin",
-    "linux",
-    "win32"
-  ],
   "contributes": {
     "typescriptServerPlugins": [
       {
