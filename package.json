@@ -41,8 +41,8 @@
     "typescript-eslint-language-service": "^4.1.2"
   },
   "module": "es6/lib/index.js",
-  "types": "commonjs/types/lib/index.d.ts",
-  "main": "commonjs/lib/index.js",
+  "types": "commonjs/types/index.d.ts",
+  "main": "commonjs/index.js",
   "files": [
     "es6",
     "commonjs"
